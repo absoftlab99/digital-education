@@ -9,3 +9,9 @@
         height: 262px;
     }
 }
+@media (min-width:577px) {
+    .thumb{
+        height: 200px !important;
+        width: 200px !important;
+    }
+}
