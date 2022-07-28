@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.ff-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+@media (max-width:576px) {
+    .carousel-inner img{
+        width: 335px;
+        height: 262px;
+    }
+}
